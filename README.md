@@ -7,4 +7,5 @@
 ##  [BAI6](https://www.jdoodle.com/embed/v0/5HL3)
 ##  [bai7](https://www.jdoodle.com/embed/v0/5HL6)
 #  if,switch
-##  [bai8](https://www.jdoodle.com/embed/v0/5HLc)
+##  [bai1](https://www.jdoodle.com/embed/v0/5HLc)
+##  [bai2](https://www.jdoodle.com/embed/v0/5HLg)
